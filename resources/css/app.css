@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import Bootstrap */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+/* Import Font Awesome */
+@import '~font-awesome/css/font-awesome.min.css';
+
+/* Add other CSS imports here */
+
+
+[x-cloak] {
+    display: none;
+}
+
+
+
+/* resources/css/app.css */
+
+
