@@ -13,13 +13,13 @@
         "laravel/jetstream": "^3.1",
         "laravel/sanctum": "^3.2",
         "laravel/tinker": "^2.8",
-        "league/commonmark": "2.6.0",
+        "league/commonmark": "2.10.2",
         "livewire/livewire": "2.12.7",
         "phenx/php-svg-lib": "0.5.2",
         "realrashid/sweet-alert": "^7.0",
         "stripe/stripe-php": "^10.12",
-        "symfony/http-foundation": "6.4.14",
-        "symfony/process": "6.4.14"
+        "symfony/http-foundation": "6.4.46",
+        "symfony/process": "6.4.33"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
